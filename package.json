@@ -1,0 +1,15 @@
+{
+  "name": "desafio-aws-node",
+  "version": "1.0.0",
+  "description": "Desafio node.js Serverless (AWS Lambda / DynamoDB)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jribas-dev",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1354.0",
+    "uuid": "^9.0.0"
+  }
+}
